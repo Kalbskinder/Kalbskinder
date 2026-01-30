@@ -1,6 +1,5 @@
 # Kalbskinder
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8xQXBbCa8R) 
+I love creating tools that make complex tasks easier and more enjoyable.
 
 # 💻 Tech Stack:
 
