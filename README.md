@@ -22,7 +22,8 @@ I love creating tools that make complex tasks easier and more enjoyable.
 </p>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Kalbskinder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalbskinder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kalbskinder&theme=dark&hide_border=false" alt="Loading contributions..." />
+</p>
 
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
