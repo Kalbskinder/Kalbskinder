@@ -21,9 +21,4 @@ I love creating tools that make complex tasks easier and more enjoyable.
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kalbskinder&theme=dark&hide_border=false" alt="Loading contributions..." />
-</p>
-
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
