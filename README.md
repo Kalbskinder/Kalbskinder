@@ -20,11 +20,3 @@ I love creating tools that make complex tasks easier and more enjoyable.
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalbskinder&theme=dark" alt="Github Stats..." />
-</p>
-
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
