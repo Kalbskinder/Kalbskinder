@@ -1,10 +1,13 @@
-# Kalbskinder
-I love creating tools that make complex tasks easier and more enjoyable.
+<p align="center">
+  <img src="https://rest.ishanoshada.com/svg/banner/normal/Kalbskinder" alt="Kalbskinder" />
+  I love creating tools that make complex tasks easier and more enjoyable
+</p>
 
-# 💻 Tech Stack:
+# 
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <br/>
